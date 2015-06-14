@@ -1,1 +1,23 @@
 先到github下載bootstrap_practice 檔案
+再打開sublime,把bootstrap_practice 檔案拉進去
+創一個新的檔案 叫index.html
+打
+<!DOCTYPE html>
+<html lang='en'>
+ <head>
+  <title>標題</title>
+ </head>
+ 接著打
+ <body>
+ <h1>第一個主題</h1>
+ <p>內容</p>
+ 
+ <h2>第二個主題<h2>
+ <p>內容</p>
+ 
+ </body>
+</html> dist/index.html
+
+按鈕
+<button type='button'>分享</button>
+<button type='button'>送出</button>
