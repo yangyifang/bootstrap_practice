@@ -18,6 +18,9 @@
  </body>
 </html> dist/index.html
 
+把index.html拉到瀏覽器上,然後更多工具>編碼>自動偵測
+
 按鈕
 <button type='button'>分享</button>
 <button type='button'>送出</button>
+
