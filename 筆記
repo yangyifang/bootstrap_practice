@@ -47,7 +47,7 @@ Grid class >> .col-xs-*
 offset class >> .col-xs-offset-*
 screen size >> opx+
 
-.{d }.平版
+平版
 Gris class >> .col-sm-*
 Offset class >> .col-sm-offset-*
 Screen size >> 768px+
@@ -58,3 +58,12 @@ offset class >> .col-md-offset-*
 Screen size >> 992px+
 
 電腦 (large)
+Grid class >> .col-lg-*
+offset class >> .col-lg-offset-*
+Screen size >> 1200px+
+
+置中
+<div class='row text-center'>  
+
+靠左   .text-left
+靠右   .text-right
