@@ -42,19 +42,19 @@
 <div>
 
 
-.(手機版).
+手機版
 Grid class >> .col-xs-*
 offset class >> .col-xs-offset-*
 screen size >> opx+
 
-.(平版).
+.{d }.平版
 Gris class >> .col-sm-*
 Offset class >> .col-sm-offset-*
 Screen size >> 768px+
 
-.(電腦 (medium)).
+電腦 (medium)
 Grid class >> .col-md-*
 offset class >> .col-md-offset-*
 Screen size >> 992px+
 
-.(電腦 (large)). 
+電腦 (large)
