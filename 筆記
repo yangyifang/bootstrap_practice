@@ -24,3 +24,37 @@
 <button type='button'>分享</button>
 <button type='button'>送出</button>
 
+修改頁面
+<script src='https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+<script src='js/bootstrap.js'></script>
+
+標題
+<class='col-md-12'>
+
+主題
+<class='col-md-6'>
+
+小主題
+<class='col-md-4'>
+
+對齊
+<class='row'>
+<div>
+
+
+.(手機版).
+Grid class >> .col-xs-*
+offset class >> .col-xs-offset-*
+screen size >> opx+
+
+.(平版).
+Gris class >> .col-sm-*
+Offset class >> .col-sm-offset-*
+Screen size >> 768px+
+
+.(電腦 (medium)).
+Grid class >> .col-md-*
+offset class >> .col-md-offset-*
+Screen size >> 992px+
+
+.(電腦 (large)). 
