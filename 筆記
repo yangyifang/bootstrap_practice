@@ -81,5 +81,5 @@ Screen size >> 1200px+
 
 
 .features .glyphicon {
-font-size: .'<32px>'.;
+font-size: .<32px>.;
 }
