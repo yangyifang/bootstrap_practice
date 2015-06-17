@@ -72,4 +72,14 @@ Screen size >> 1200px+
 <br>  分段
 
 <i class='小標的英文'></i>
-去
+到bootstrap的Components找英文代號
+
+先創一個檔叫main.css
+然後再去index.html
+把<link href='css/main.css' rel='stylesheet'>
+打在<link href='css/bootstrap.css' rel='stylesheet'>的下面
+
+
+.features .glyphicon {
+font-size: .'<32px>'.;
+}
